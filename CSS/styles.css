@@ -1,5 +1,10 @@
 #Herotag {
-    color:rgb(247, 247, 255)
+    color:rgb(247, 247, 255);
+    position:absolute;
+    top: 4rem;
+    text-align: center;
+    width: 100%;
+    font-size: 4rem;
 }
 
 .hero-content {
