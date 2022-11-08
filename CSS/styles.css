@@ -58,3 +58,78 @@
 
 /* Marcel's Page Styles for Hero images Carousel */
 /* End Marcel's Page Styles for Hero images Carousel */
+
+/* Marcel's Page Styles for Navbars */
+@font-face {
+    font-family: sourceText;
+    src: url(../assets/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf);
+}
+
+.nav-pills{
+    display: flex;
+    width: 100%;
+    background-color: #32292F;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.navBarContainer{
+    width: 100%;
+    background-color: #32292F;
+}
+
+.navBarText{
+    color: white;
+    font-family: sourceText;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.navBarTextMarcel{
+    color: white;
+    font-family: sourceText;
+    background-color: #575366;
+}
+
+.navBarHomeMarcel{
+    color: white;
+    font-family: sourceText;
+    background-color: #575366;
+    border-radius: 12px;
+    margin-right: 10px;
+}
+
+.navBarBrandonPageGo{
+    color: white;
+    font-family: sourceText;
+    background-color: #575366;
+    border-radius: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navBarTextBrandon{
+    color: white;
+    font-family: sourceText;
+    background-color: #575366;
+}
+
+.navBarHomeBrandon{
+    color: white;
+    font-family: sourceText;
+    background-color: #575366;
+    border-radius: 12px;
+    margin-right: 10px;
+}
+
+.navBarMarcelPageGo{
+    color: white;
+    font-family: sourceText;
+    background-color: #575366;
+    border-radius: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* End Marcel's Page Styles for Navbars */
