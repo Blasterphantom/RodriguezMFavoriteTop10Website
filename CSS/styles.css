@@ -1,3 +1,20 @@
+.hero-content {
+    position: absolute;
+    top: 4rem;
+    text-align: center;
+    width: 100%;
+    font-size: 4rem;
+    color: rgb(247, 247, 255);
+    background-color:rgb(87, 98, 213);
+    border-radius: 25px;
+}
+.carousel-item {
+    background-size: cover;
+    height: 100vh;
+    display: relative;
+}
+
+
 /* Brandon's Page Styles for Hero images Carousel */
 #hero-1 {
     background-image: url("../assets/blackpink-lovesick-girls.jpg");
@@ -37,3 +54,7 @@
 #hero-10 {
     background-image: url("../assets/izonee.png");
 }
+/* End Brandon's Page Styles for Hero images Carousel */
+
+/* Marcel's Page Styles for Hero images Carousel */
+/* End Marcel's Page Styles for Hero images Carousel */
