@@ -6,6 +6,7 @@
     font-size: 4rem;
     color: rgb(247, 247, 255);
     background-color:rgb(87, 98, 213);
+    opacity: 40%;
     border-radius: 25px;
 }
 .carousel-item {
@@ -56,7 +57,48 @@
 }
 /* End Brandon's Page Styles for Hero images Carousel */
 
+
+
 /* Marcel's Page Styles for Hero images Carousel */
+
+#hero-11 {
+    background-image: url("../assets/Luffy.jpeg");
+}
+
+#hero-12 {
+    background-image: url("../assets/narutouzumaki.jpeg");
+}
+
+#hero-13 {
+    background-image: url("../assets/goku.jpeg");
+}
+
+#hero-14 {
+    background-image: url("../assets/kaneki.jpeg");
+}
+#hero-15 {
+    background-image: url("../assets/Eren.jpeg");
+}
+
+#hero-16 {
+    background-image: url("../assets/Kida.Masaomi.full.119459.jpg");
+}
+
+#hero-17 {
+    background-image: url("../assets/re-zero-s2-netflix.jpeg");
+}
+
+#hero-18 {
+    background-image: url("../assets/reaganmob.jpeg");
+}
+
+#hero-19 {
+    background-image: url("../assets/karoo.jpeg");
+}
+
+#hero-20 {
+    background-image: url("../assets/kungfudoong.jpg");
+}
 /* End Marcel's Page Styles for Hero images Carousel */
 
 /* Marcel's Page Styles for Navbars */
