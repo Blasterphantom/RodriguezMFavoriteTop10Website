@@ -21,7 +21,7 @@
     background-color:#575366;
 }
 
-.row1 {
+.rowMain {
     display: flex;
     justify-content: center;
 }
@@ -287,4 +287,8 @@ body {
 
 }
 
+.col-6{
+    display: flex;
+    justify-content: center;
+}
 /* end code for text boxes on the pages and the background color */
