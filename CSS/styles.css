@@ -1,4 +1,5 @@
 #Herotag {
+    font-family: SourceText;
     color:rgb(247, 247, 255);
     position:absolute;
     top: 4rem;
@@ -8,6 +9,7 @@
 }
 
 .hero-content {
+    font-family: SourceText;
     position: absolute;
     top: 4rem;
     text-align: center;
