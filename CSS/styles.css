@@ -254,9 +254,8 @@
     border-radius: 12px;
 }
 
-.row {
-    margin-left: 1px;
-    margin-right: 1px;
+.Text {
+    margin-left: 3px;
 }
 
 body {
