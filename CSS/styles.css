@@ -246,3 +246,15 @@
     margin-right: 10px;
 }
 /* End Marcel's Page Styles for Navbars */
+
+
+/* code for text boxes on the pages and the background color */
+.textBox {
+    background-color: #A5AECD;
+    border-radius: 12px;
+}
+
+body {
+    background-color: #6E7DAB;
+}
+/* end code for text boxes on the pages and the background color */
