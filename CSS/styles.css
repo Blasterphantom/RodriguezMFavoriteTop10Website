@@ -1,5 +1,6 @@
 #Herotag {
     font-family: SourceText;
+    margin-top: 40px;
     color:rgb(247, 247, 255);
     position:absolute;
     top: 4rem;
@@ -10,6 +11,7 @@
 
 .hero-content {
     font-family: SourceText;
+    margin-top: 40px;
     position: absolute;
     top: 4rem;
     text-align: center;
@@ -186,9 +188,3 @@
     margin-right: 10px;
 }
 /* End Marcel's Page Styles for Navbars */
-
-
-/* Brandon styles for test text boxes */
-.d-grid {
-    font-family: sourceText;
-}
