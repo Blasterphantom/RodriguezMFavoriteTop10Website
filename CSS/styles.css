@@ -1,13 +1,16 @@
 /* Code for index page cards */
 .card-title {
     text-align: center;
+    font-family: SourceText;
 }
 
 .card-text {
     text-align: center;
+    font-family: SourceText;
 }
 
 .SelectBtn {
+    font-family: SourceText;
     display: flex;
     justify-content: center;
     margin-top: 10px;
@@ -15,7 +18,7 @@
 }
 
 .BtnBackground {
-    background-color: gray;
+    background-color:#575366;
 }
 
 .row1 {
