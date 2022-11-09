@@ -254,6 +254,11 @@
     border-radius: 12px;
 }
 
+.row {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
 body {
     background-color: #6E7DAB;
 }
