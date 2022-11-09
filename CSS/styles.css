@@ -27,6 +27,12 @@
 }
 /* End of index page cards */
 
+.indexTitle {
+    display: flex;
+    justify-content: center;
+    font-family: SourceText;
+}
+
 
 
 #Herotag {
