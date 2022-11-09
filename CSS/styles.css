@@ -18,7 +18,7 @@
     color: rgb(247, 247, 255);
     background-color:rgb(87, 98, 213);
     opacity: 40%;
-    border-radius: 25px;
+    border-radius: 12px;
 }
 .carousel-item {
     background-size: cover;
@@ -187,3 +187,8 @@
 }
 /* End Marcel's Page Styles for Navbars */
 
+
+/* Brandon styles for test text boxes */
+.d-grid {
+    font-family: sourceText;
+}
