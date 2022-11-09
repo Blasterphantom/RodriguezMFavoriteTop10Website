@@ -1,3 +1,31 @@
+/* Code for index page cards */
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.SelectBtn {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.BtnBackground {
+    background-color: gray;
+}
+
+.row1 {
+    display: flex;
+    justify-content: center;
+}
+/* End of index page cards */
+
+
+
 #Herotag {
     font-family: SourceText;
     margin-top: 40px;
