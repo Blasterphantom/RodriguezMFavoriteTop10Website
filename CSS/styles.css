@@ -177,6 +177,10 @@
     font-family: sourceText;
     src: url(../assets/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf);
 }
+@font-face {
+    font-family: GowunBatang;
+    src: url(../assets/Gowun_Batang/GowunBatang-Regular.ttf);
+}
 
 .nav-pills{
     display: flex;
