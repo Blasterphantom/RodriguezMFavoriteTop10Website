@@ -32,41 +32,52 @@
 /* Brandon's Page Styles for Hero images Carousel */
 #hero-1 {
     background-image: url("../assets/blackpink-lovesick-girls.jpg");
+    background-position: center;
+
 }
 
 #hero-2 {
     background-image: url("../assets/wannaonee.jpg");
+    background-position: center;
 }
 
 #hero-3 {
     background-image: url("../assets/NewJeans.jpg");
+    background-position: center;
 }
 
 #hero-4 {
     background-image: url("../assets/Taeyeon.jpg");
+    background-position: center;
 }
 #hero-5 {
     background-image: url("../assets/IU2.jpg");
+    background-position: center;
 }
 
 #hero-6 {
     background-image: url("../assets/twice4.jpg");
+    background-position: center;
 }
 
 #hero-7 {
     background-image: url("../assets/seventeen.JPG");
+    background-position: center;
 }
 
 #hero-8 {
     background-image: url("../assets/Red\ Velvet\ Inc_.jpg");
+    background-position: center;
 }
 
 #hero-9 {
     background-image: url("../assets/BTS.jpg");
+    background-position: center;
 }
 
 #hero-10 {
     background-image: url("../assets/izonee.png");
+    background-position: center;
 }
 /* End Brandon's Page Styles for Hero images Carousel */
 
@@ -76,41 +87,51 @@
 
 #hero-11 {
     background-image: url("../assets/Luffy.jpeg");
+    background-position: center;
 }
 
 #hero-12 {
     background-image: url("../assets/narutouzumaki.jpeg");
+    background-position: center;
 }
 
 #hero-13 {
     background-image: url("../assets/goku.jpeg");
+    background-position: center;
 }
 
 #hero-14 {
     background-image: url("../assets/kaneki.jpeg");
+    background-position: center;
 }
 #hero-15 {
     background-image: url("../assets/Eren.jpeg");
+    background-position: center;
 }
 
 #hero-16 {
     background-image: url("../assets/Kida.Masaomi.full.119459.jpg");
+    background-position: center;
 }
 
 #hero-17 {
     background-image: url("../assets/re-zero-s2-netflix.jpeg");
+    background-position: center;
 }
 
 #hero-18 {
     background-image: url("../assets/reaganmob.jpeg");
+    background-position: center;
 }
 
 #hero-19 {
     background-image: url("../assets/karoo.jpeg");
+    background-position: center;
 }
 
 #hero-20 {
     background-image: url("../assets/kungfudoong.jpg");
+    background-position: center;
 }
 /* End Marcel's Page Styles for Hero images Carousel */
 
