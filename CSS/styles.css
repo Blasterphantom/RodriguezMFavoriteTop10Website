@@ -330,3 +330,14 @@ body {
     display: flex;
     justify-content: center;
 }
+
+
+
+
+
+@media screen and (max-width: 767px) {
+    .youtubeVideo {
+        display:flex;
+        min-height: 400px;
+    }
+}
