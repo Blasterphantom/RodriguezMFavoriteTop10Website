@@ -283,10 +283,13 @@
 .textBox {
     background-color: #A5AECD;
     border-radius: 12px;
+    display: flex;
+    align-items: center;
 }
 
 .Text {
     margin-left: 3px;
+    margin-right: 3px;
 }
 
 body {
@@ -304,6 +307,10 @@ body {
     min-height: 250px;
 }
 
+.youtubeVideo-sm{
+    min-height: 400px;
+}
+
 .img-fluid{
     border-radius: 24px;
     padding-left: 10px;
@@ -316,4 +323,9 @@ body {
     display: flex;
     flex-direction: column;
 
+}
+
+.cardFace{
+    display: flex;
+    justify-content: center;
 }
