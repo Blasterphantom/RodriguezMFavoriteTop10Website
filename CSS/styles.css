@@ -321,9 +321,6 @@ body {
     min-height: 250px;
 }
 
-.youtubeVideo{
-    min-height: 400px;
-}
 
 .img-fluid{
     border-radius: 24px;
@@ -342,4 +339,15 @@ body {
 .cardFace{
     display: flex;
     justify-content: center;
+}
+
+
+
+
+
+@media screen and (max-width: 767px) {
+    .youtubeVideo {
+        display:flex;
+        min-height: 400px;
+    }
 }
