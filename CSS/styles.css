@@ -25,12 +25,27 @@
     display: flex;
     justify-content: center;
 }
+
+.col-3{
+    display: flex;
+    justify-content: center;
+}
 /* End of index page cards */
 
 .indexTitle {
+    color:#F7F7FF;
     display: flex;
     justify-content: center;
-    font-family: SourceText;
+    font-family: GowunBatang;
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+.indexNames {
+    color:#F7F7FF;
+    display: flex;
+    justify-content: center;
+    font-family: GowunBatang;
+    margin-bottom: 15px;
 }
 
 
@@ -172,7 +187,6 @@
 }
 /* End Marcel's Page Styles for Hero images Carousel */
 
-/* Marcel's Page Styles for Navbars */
 @font-face {
     font-family: sourceText;
     src: url(../assets/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf);
@@ -182,6 +196,7 @@
     src: url(../assets/Gowun_Batang/GowunBatang-Regular.ttf);
 }
 
+/* Marcel's Page Styles for Navbars */
 .nav-pills{
     display: flex;
     width: 100%;
@@ -252,6 +267,7 @@
 /* End Marcel's Page Styles for Navbars */
 
 
+
 /* code for text boxes on the pages and the background color */
 .textBox {
     background-color: #A5AECD;
@@ -290,9 +306,3 @@ body {
     flex-direction: column;
 
 }
-
-.col-6{
-    display: flex;
-    justify-content: center;
-}
-/* end code for text boxes on the pages and the background color */
