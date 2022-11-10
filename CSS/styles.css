@@ -1,4 +1,8 @@
 /* Code for index page cards */
+.card {
+    display: flex;
+    justify-content: center;
+}
 .card-title {
     text-align: center;
     font-family: SourceText;
@@ -10,27 +14,34 @@
 }
 
 .SelectBtn {
-    font-family: SourceText;
     display: flex;
-    justify-content: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    font-family: SourceText;
+    margin-top: 7px;
+    margin-bottom: 7px;
 }
 
 .BtnBackground {
-    background-color:#575366;
-}
-
-.rowMain {
     display: flex;
     justify-content: center;
+    background-color:#575366;
+    border-radius: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
 }
 
 .col-3{
     display: flex;
     justify-content: center;
 }
+
+.rowMain {
+    display: flex;
+    justify-content: center;
+}
 /* End of index page cards */
+
+
 
 .indexTitle {
     color:#F7F7FF;
