@@ -28,6 +28,7 @@
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 10px;
+    color: white;
 }
 
 .col-3{
@@ -231,11 +232,18 @@
     height: 100%;
 }
 
+
 .navBarTextMarcel{
     color: white;
     font-family: sourceText;
     background-color: #575366;
 }
+
+.navBarTextMarcel:hover{
+    color: #575366;
+    background-color: white;
+}
+
 
 .navBarHomeMarcel{
     color: white;
@@ -258,6 +266,11 @@
     color: white;
     font-family: sourceText;
     background-color: #575366;
+}
+
+.navBarTextBrandon:hover{
+    color: #575366;
+    background-color: white;
 }
 
 .navBarHomeBrandon{
@@ -308,7 +321,7 @@ body {
     min-height: 250px;
 }
 
-.youtubeVideo-sm{
+.youtubeVideo{
     min-height: 400px;
 }
 
